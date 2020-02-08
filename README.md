@@ -48,6 +48,7 @@
 
 能快速熟练地制作前端页面
 
+- 熟练使用 HTML5, CSS3, Photoshop
 - JavaScript 基础知识:
     - 掌握 Typescript, ES6+ 语法, promise
     - 理解面向对象编程思维、函数式编程思维
